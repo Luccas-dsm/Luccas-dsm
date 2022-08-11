@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com desenvolvimento web/mobile
 - 🌱 Estudando Xamarin.Forms e MAUI
-- 😄 Pronouns: ele/dele
 - 🤓 Amo aprender coisas novas
 - 🎢 Gosto de desafios
 ##
