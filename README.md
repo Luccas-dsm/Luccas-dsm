@@ -1,7 +1,7 @@
 #### Opa! Tudo bem? Chega aí, vem tomar um cafezinho comigo.
 
-- 🔭 Hoje trabalho com desenvolvimento web/mobile
-- 🌱 Estudando Xamarin.Forms e MAUI
+- 🔭 Hoje sou desenvolvedor fullstack
+- 🌱 Estudando arquitetura de projetos e pós em devops
 - 🤓 Amo aprender coisas novas
 - 🎢 Gosto de desafios
 ##
